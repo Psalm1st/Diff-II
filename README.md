@@ -43,7 +43,7 @@ Contributions are welcome! If you find any issues or want to add new questions, 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
 
 
 
