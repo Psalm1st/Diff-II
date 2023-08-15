@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Children Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+   
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+</head>
+<body>
+    
+    
+    <div class="start_btn">
+        <br>
+        <h1><center>Welcome To Our IQ Quiz Program.</center></h1><h3><center>Embark on a Journey to Digital Wisdom.</h3></center>
+            
+        <br><br>
+
+        <h3><center>Step into the world of our IQ Quiz Program, where fun and learning intertwine. Our mission is to empower young minds with essential knowledge about online safety and digital ethics.</h3></center>
+        <br>
+        <h3><center>By joining this adventure, you'll gain valuable insights into navigating the virtual realm, safeguarding against cyberbullying, and making responsible choices online.</h3></center> 
+        <h3><center>Let's equip you with the tools to surf the web confidently and responsibly. Are you ready to begin?</h3></center>
+
+        <br><br><br><br>
+        <center> <button> Play Quiz </button></center>
+    </div>
+
+    
+    <div class="info_box">
+        <div class="info-title"><span>Rules of this Quiz. Please Read Carefully...</span></div>
+        <div class="info-list">
+            <div class="info">1. Numbering of the questions are by random.</div>
+            <div class="info">2. You will have only <span>40 seconds</span> per each question.</div>
+            <div class="info">3. Once you select your answer, it CANNOT be undone.</div>
+            <div class="info">4. You CANNOT select any options once time goes off.</div>
+            <div class="info">5. You CANNOT exit from the Quiz while you're playing.</div>
+            <div class="info">6. Total number of questions is 16. You will get points on the basis of your correct answers and your <span>final score</span> will be revealed at the end of the Quiz.</div>
+        </div>
+        <div class="buttons">
+            <button class="quit">Exit Quiz</button>
+            <button class="restart">Continue</button>
+        </div>
+    </div>
+
+   
+    <div class="quiz_box">
+
+        <div class="row">
+            <div class="column">
+              <img src="img/child.png" alt="Snow" style="width:90%">
+            </div>
+            
+            <div class="column1">
+              <img src="img/zombie.jpg" alt="Mountains" style="width:100%">
+            </div>
+          </div>
+
+        <header>
+            <div class="title"></div>
+            <div class="timer">
+                <div class="time_left_txt">Time Left</div>
+                <div class="timer_sec">40</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+        <section>
+            <div class="que_text">
+               
+            </div>
+            <div class="option_list">
+             
+            </div>
+        </section>
+
+     
+        <footer>
+            <div class="total_que">
+              
+            </div>
+            <button class="next_btn">Next One</button>
+        </footer>
+    </div>
+
+
+    <div class="result_box">
+        <div class="complete_text">You've completed the Quiz!</div>
+        <div class="score_text"></div>
+
+        <br>
+
+        <div class="buttons">
+            <button class="restart">Replay Quiz</button>
+            <button class="quit">Quit Quiz</button>
+        </div>
+
+        <br><br><br><br>
+
+        <div class="score_text">
+            <!-- Add your credit link here -->
+            <p>Credit: <a href="https://github.com/psalm1st" target="_blank">Psalm1st</a></p>
+        </div>
+
+    </div>
+
+   
+    <script src="js/questions.js"></script>
+
+    <script src="js/script.js"></script>
+
+</body>
+</html>
