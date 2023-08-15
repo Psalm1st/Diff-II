@@ -38,12 +38,9 @@ Contributions are welcome! If you find any issues or want to add new questions, 
 
 ## Credits
 
-- Samuel Chukwu - Developer
+- Samuel Chukwu + 3 other group members - Developer(s)
+- HZ University of Applied Sciences
 - Quiz questions adapted from random source of knowledge
-
-## License
-
-This project is licensed under the MIT License
 
 
 
