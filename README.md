@@ -1,9 +1,5 @@
 
 
-## Demo
-
-Live Demo - Coming Soon...
-
 ## About
 
 School Children Quiz App is a simple, fun and educational web-based quiz application designed to teach kids about internet safety, cyberbullying awareness, and responsible online behavior.
@@ -11,6 +7,10 @@ School Children Quiz App is a simple, fun and educational web-based quiz applica
 ## Introduction
 
 Welcome to the School Children Quiz App! This interactive quiz is designed to help kids learn important internet safety concepts while having fun. The quiz covers topics such as identifying spam emails, dealing with cyberbullying, protecting personal information online, and more.
+
+## Demo
+
+Live Demo - Coming Soon...
 
 ## Features
 
